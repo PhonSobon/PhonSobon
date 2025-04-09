@@ -4,3 +4,6 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=PhonSobon&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=PhonSobon&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
